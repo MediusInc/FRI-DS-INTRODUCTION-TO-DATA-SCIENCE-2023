@@ -4,7 +4,7 @@ Data will availabe to students of course on published url.
 This repo will serve as a guidance or starting point to make defined taks easier.
 
 ## Installation requirements
-Before running `example_read.ipynb` Install required libraries using:
+Before running `example_read.ipynb`. Install required libraries using:
 ```
 pip install -r requirements.txt
 ```
