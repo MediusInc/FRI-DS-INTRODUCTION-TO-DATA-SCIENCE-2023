@@ -9,6 +9,9 @@ Before running `example_read.ipynb`. Install required libraries using:
 pip install -r requirements.txt
 ```
 
+## Presentation
+Presentation is available [here](https://docs.google.com/presentation/d/1_UCHO4S0kza_GXOTIvAe_Ace529RkHqLCMz1DEHN340/edit?usp=sharing).
+
 
 ## Your partners
 
