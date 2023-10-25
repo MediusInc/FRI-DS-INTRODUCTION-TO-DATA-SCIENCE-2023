@@ -14,9 +14,7 @@ The objective of this task is to identify anomalies within time-series data. The
 ### What is an anomaly?
 The definition of anomaly is context dependent. For our problem we define an anomaly as a sensor reading that is significantly higher from the previous readings. The following image shows two anomalies: 1 and 3 are considered anomalies, while 2 is not.
 
-<div style="background-color: white; padding: 10px;">
-  <img src="figures/anomaly_example.png" alt="Example of anomalies" />
-</div>
+![Anomaly example](figures/anomaly_example.png)
 
 ### Data set
 The data set contains more than 2 months of sensor readings. The data is stored in file `TagLog.parquet` in the [parquet format](https://en.wikipedia.org/wiki/Apache_Parquet). To read the data you can use `pandas.read_parquet` function. The data set contains the following columns:
