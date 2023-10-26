@@ -33,10 +33,10 @@ SensorId and CreatedTime have been psevdoanonymized. The CreatedTime is shifted 
 | ...   | ...    | ... |
 
 Some SensorId represent productId, Quantity, Produced and CycleTime. These are not real sensor readings, but rather metadata about the production process. The ids of these sensors are:
-- ProductId: 639
-- Quantity: 878
-- Produced: 507
-- CycleTime: 899
+- ProductId: 195
+- Quantity: 297
+- Produced: 706
+- CycleTime: 356
 
 Example read of data can be found in `notebooks/example_read.ipynb` notebook. Before running `example_read.ipynb`. Install required libraries using:
 ```
